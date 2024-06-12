@@ -123,7 +123,7 @@
 <input type="hidden" id="confirmacao" name="confirmacao" value="">
  
   <div id="container">
-     <label>CNPJ Cliente MUDEI pelo git</label><br><input type="text" title="CNPJ SOFTWARE HOUSE" value ="" id="idcnpj" name="cnpjcliente"/><br>
+     <label>CNPJ Cliente</label><br><input type="text" title="CNPJ SOFTWARE HOUSE" value ="" id="idcnpj" name="cnpjcliente"/><br>
      <label>CNPJ Software House</label><br><input type="text" title="CNPJ SOFTWARE HOUSE" value ="" id="idcnpjsh" name="cnpjsh"/><br>
      <label>Token Software House</label><br><input type="text" title="TOKEN SOFTWARE HOUSE" value="" id="idtokensh" name="tokensh"/><br>
   </div>
