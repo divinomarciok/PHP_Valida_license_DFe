@@ -86,7 +86,7 @@ class ValidaComponentes {
         $this->$valorComponente->ConfigurarSoftwareHouse($cnpjsh,$tokensh);
         $this->$valorComponente->Ambiente = 2;            
         $this->$valorComponente->CNPJ = $cnpjCliente;
-        $this->$valorComponente->NomeCertificado = "CN=TECNOSPEED NEGOCIOS LTDA:29062609000177, OU=Certificado PJ A1, O=ICP-Brasil, C=BR, S=PR, L=Maringa, E=, SE=6D 8C 22 11 18 4B EF 8C";
+        $this->$valorComponente->NomeCertificado = "";
         $this->$valorComponente->ArquivoServidoresHom="C:/Program Files/TecnoSpeed/$valorComponente/arquivos/$valorComponente"."ServidoresHom.ini";
         $this->$valorComponente->ArquivoServidoresProd="C:/Program Files/TecnoSpeed/$valorComponente/arquivos/$valorComponente"."ServidoresProd.ini";
         $this->$valorComponente->DiretorioEsquemas="C:/Program Files/TecnoSpeed/$valorComponente/arquivos/Esquemas/";
